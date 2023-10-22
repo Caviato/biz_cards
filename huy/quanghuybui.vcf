@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Kumeresh;Jasshan;;;
-FN:Jasshan Kumeresh
+N:Bui;Quang Huy,;;;
+FN:Quang Huy, Bui
 ORG:Caviato
 ADR;TYPE=WORK:
 TITLE:Co-founder
@@ -9,12 +9,12 @@ TEL;TYPE=CELL:
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
-EMAIL;TYPE=WORK:contact@caviato.xyz
-URL;TYPE=Digital Business Card:https://cards.caviato.xyz/jasshan
+EMAIL;TYPE=WORK:huy@caviato.xyz
+URL;TYPE=Digital Business Card:https://cards.caviato.xyz/huy
 URL:caviato.xyz
-URL;TYPE=WhatsApp:+6583186038
+URL;TYPE=WhatsApp:+6584443669
 URL;TYPE=Website:caviato.xyz
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:We make business workflow automation adaptable and easy
-UID:EnBizCard-100726184
+UID:EnBizCard-100551281
 END:VCARD
